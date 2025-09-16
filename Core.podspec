@@ -22,7 +22,7 @@ s.author = { "Nunu Nugraha" => "r.fajarnugraha@gmail.com"}
 s.homepage = "https://github.com/nunutech40/Modularization-Core-Module"
 
 s.source = {
-   :git => "https://github.com/nunutech40/Modularization-Core-Module.git"
+   :git => "https://github.com/nunutech40/Modularization-Core-Module.git",
    :tag => "#{s.version}" 
 }
 
